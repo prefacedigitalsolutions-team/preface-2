@@ -1,0 +1,460 @@
+/* responsive code all section start*/
+
+ @media (min-width: 992px) {
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="4063be45-b8b3-9a31-cad9-bfe36485df5b"] {
+          -webkit-transform: translate3d(-18px, 0, 0) scale3d(1, 1, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(-18px, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(-18px, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(-18px, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          opacity: 0;
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="1aa5acca-7f49-679e-50b8-388c32a77263"] {
+          -webkit-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -moz-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -ms-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          opacity: 0;
+          display: none;
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="1aa5acca-7f49-679e-50b8-388c32a77261"] {
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+            rotateZ(0) skew(0, 0);
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="1aa5acca-7f49-679e-50b8-388c32a7726f"] {
+          -webkit-transform: translate3d(0vw, 0vw, 0) scale3d(1, 1, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0vw, 0vw, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0vw, 0vw, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0vw, 0vw, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          width: 6vw;
+          height: 6vw;
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="2d2a33f9-c11e-84e3-6cda-3659eba6efd2"] {
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+            rotateZ(0) skew(0, 0);
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="ee8650a7-35a1-20c7-f942-5954c045ec02"] {
+          -webkit-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -moz-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -ms-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          opacity: 0;
+          display: none;
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="c3e7c2e5-8cb1-5adf-e2d2-142cb23e450b"] {
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+            rotateZ(0) skew(0, 0);
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="e1a15f0b-a81e-b2e2-3198-533ed3df2537"] {
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+            rotateZ(0) skew(0, 0);
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="34f40958-909d-c930-a6c7-43d6f1cd5fab"] {
+          -webkit-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -moz-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1)
+            rotateX(0) rotateY(0) rotateZ(0) skew(0, 20deg);
+          -ms-transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          transform: translate3d(0, 48px, 0) scale3d(0.8, 0.8, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 20deg);
+          opacity: 0;
+          display: none;
+        }
+
+        html.w-mod-js:not(.w-mod-ix)
+          [data-w-id="34f40958-909d-c930-a6c7-43d6f1cd5fa2"] {
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+            rotateZ(0) skew(0, 0);
+        }
+      }
+  
+  
+  
+
+/* responsive code all section end*/
+/* home banar slider */
+.hero-background-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.slide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.slide-img.active {
+  opacity: 1;
+}
+
+.image-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+}
+
+
+/* home banar slider End */
+
+
+
+
+
+
+
+/*  About dico industries secto start*/
+
+.logos-headline {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 10px; 
+}
+
+.about-paragraph {
+  font-size: 20px;
+  color: #555;
+  line-height: 1.9;
+  margin: 0; 
+}
+
+/* About dinco section end*/
+
+
+
+
+
+/*  Intro + product Section start  */
+/* ================= Intro Section ================= */
+.intro-section {
+  margin-top: 10vh;
+  width: 100%;
+  padding: 2vh 8vw;
+  background: #ffffff;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+/* ================= Header ================= */
+.intro-header h2 {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #575656;
+  margin-bottom: 15px;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+
+.intro-header p {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  color: #353535;
+  max-width: 800px;
+  margin: 0 auto 50px;
+  line-height: 1.6;
+}
+
+/* ================= Responsive ================= */
+@media (max-width: 900px) {
+  .intro-features {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .feature .arrow {
+    top: 15px;
+    right: 15px;
+  }
+}
+
+
+/*  Intro + product Section End  */
+
+
+
+
+
+/* static image start*/
+
+.background-banner.projects-banner {
+  background-image: url("../img-1/home-banar-0.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+/* FOOTER section start */
+
+.footer-section {
+  background-color: #000;
+  background-image: url('../img-1/wire-square-1.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  padding: 80px 20px 40px; 
+  line-height: 1.8;
+  position: relative;
+}
+
+.footer-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9); 
+  z-index: 0;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 50px; 
+  max-width: 1200px;
+  margin: auto;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-column h3 {
+  font-size: 22px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 18px; 
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 12px; /* gap between icon and text */
+  font-size: 17px;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.footer-links a img {
+  width: 24px; /* slightly bigger icons */
+  height: 24px;
+  filter: brightness(0) invert(1);
+}
+
+.footer-links a:hover {
+  color: #f0c040;
+  transform: translateX(5px);
+}
+
+.footer-column p {
+  font-size: 17px;
+  color: #ffffff;
+  margin: 10px 0; 
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 30px 0;
+  color: #ffffff ; 
+  font-size: 15px;
+  border-top: 1px solid #222;
+  margin-top: 50px;
+  position: relative; 
+  z-index: 2; 
+  width: 100%;
+  left: 0; 
+}
+
+/* Responsive tweaks */
+@media (max-width: 1024px) {
+  .footer-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+
+/* FOOTER section End */
+
+
+/* About us banar page section start */
+
+.single-image {
+  height: 88vh !important;
+  overflow: hidden;
+}
+
+.single-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* About banar section End */
+
+
+
+
+/* About Intro section */
+
+.hero{
+  height:100vh;
+  padding:0 8%;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  position:relative;
+}
+
+.content{
+  max-width:550px;
+  animation: fadeInUp 1s ease forwards;
+  opacity:0;
+}
+
+.content h1{
+  font-size:55px;
+  font-weight:700;
+  line-height:1.1;
+}
+
+.content p{
+  margin-top:20px;
+  opacity:.7;
+  font-size:18px;
+}
+
+.actions{
+  margin-top:35px;
+  display:flex;
+  gap:20px;
+}
+
+.btn{
+  padding:14px 28px;
+  border-radius:12px;
+  text-decoration:none;
+  font-weight:500;
+}
+
+.primary{
+  background:#4C8BFF;
+  color:white;
+}
+
+.secondary{
+  background:rgba(255,255,255,0.1);
+  border:1px solid rgba(255,255,255,0.2);
+  color:white;
+  backdrop-filter:blur(8px);
+}
+
+.hero-img{
+  width:450px;
+  height:450px;
+  background:url('../img-1/wiremesh-new.png')
+    center/cover no-repeat;
+  border-radius:30px;
+  /* filter:drop-shadow(0 20px 40px rgba(0,0,0,0.5));*/
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%{ transform:translateY(0); }
+  50%{ transform:translateY(-20px); }
+  100%{ transform:translateY(0); }
+}
+
+@keyframes fadeInUp {
+  0%{ opacity:0; transform:translateY(30px); }
+  100%{ opacity:1; transform:translateY(0); }
+}
